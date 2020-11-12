@@ -11,7 +11,7 @@ a:active {color:f27649; text-decoration:underline;}
 .topbar{
   font-size: 10px;
   color: "gray";
-  margin: 5px 30px;
+  margin: 1px 30px;
 }
 .devider{
   border-left: 1px solid gray;
@@ -19,7 +19,7 @@ a:active {color:f27649; text-decoration:underline;}
   margin: 0px 5px
 }
 .logo{
-  margin: 5px 50px;
+  margin: 1px 50px;
 }
 .information{
   margin: 5px 100px;
