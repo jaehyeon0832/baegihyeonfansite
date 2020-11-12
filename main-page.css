@@ -1,0 +1,29 @@
+body{
+  font-size: 20px;
+  bgcolor: #FFFFFF;
+  color: #000000;
+}
+h1{font-size: 40px}
+a:link {color:000000; text-decoration:none;}
+a:visited {color:000000; text-decoration:none;}
+a:hover {color:f27649; text-decoration:underline;}
+a:active {color:f27649; text-decoration:underline;}
+.topbar{
+  font-size: 10px;
+  color: "gray";
+  margin: 5px 30px;
+}
+.devider{
+  border-left: 1px solid gray;
+  height: 50px;
+  margin: 0px 5px
+}
+.logo{
+  margin: 5px 50px;
+}
+.information{
+  margin: 5px 100px;
+}
+.profile{
+  margin: 5px 100px;
+}
